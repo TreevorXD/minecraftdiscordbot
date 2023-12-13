@@ -1,0 +1,14 @@
+    "dependencies": {
+        "axois": "^0.0.1-security",
+        "canvas": "^2.11.2",
+        "commandkit": "^0.1.6",
+        "discord-gamecord": "^4.4.1",
+        "discord.js": "^14.12.1",
+        "dotenv": "^16.3.1",
+        "fetch": "^1.1.0",
+        "fnbr": "^1.4.1",
+        "generate-password": "^1.7.0",
+        "google-translate": "^2.2.0",
+        "moment": "^2.29.4",
+        "node-fetch": "^3.3.2"
+    }
